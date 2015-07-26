@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PumaSporks</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_text">Puma</string>
+    <string name="button_text">Click To Change Text</string>
+    <string name="titleText2">Large Text</string>
+    <string name="buttonText">Process</string>
+    <string name="bot">Bottom Text</string>
+    <string name="top">Top Text</string>
+</resources>
